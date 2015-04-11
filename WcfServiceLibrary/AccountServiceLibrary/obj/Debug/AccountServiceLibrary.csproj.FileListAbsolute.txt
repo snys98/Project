@@ -1,0 +1,6 @@
+C:\Users\YS\Desktop\GOGOGO\Demos\WcfServiceLibrary\AccountServiceLibrary\bin\Debug\AccountServiceLibrary.dll.config
+C:\Users\YS\Desktop\GOGOGO\Demos\WcfServiceLibrary\AccountServiceLibrary\bin\Debug\AccountServiceLibrary.dll
+C:\Users\YS\Desktop\GOGOGO\Demos\WcfServiceLibrary\AccountServiceLibrary\bin\Debug\AccountServiceLibrary.pdb
+C:\Users\YS\Desktop\GOGOGO\Demos\WcfServiceLibrary\AccountServiceLibrary\obj\Debug\AccountServiceLibrary.csprojResolveAssemblyReference.cache
+C:\Users\YS\Desktop\GOGOGO\Demos\WcfServiceLibrary\AccountServiceLibrary\obj\Debug\AccountServiceLibrary.dll
+C:\Users\YS\Desktop\GOGOGO\Demos\WcfServiceLibrary\AccountServiceLibrary\obj\Debug\AccountServiceLibrary.pdb
